@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jjqq8888
+- 👋 Hi, I’m @William Yu
 - 👀 I’m interested in polymeric material consultancy, failure analysis, material characterisation
 - 🌱 I’m currently learning web development, machine learning, quantum computing and data analysis with Python
 - 💞️ I’m looking to collaborate on technical consultancy on polymeric materials / products
